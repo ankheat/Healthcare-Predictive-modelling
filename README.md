@@ -38,11 +38,11 @@ This project focuses on building a predictive model to determine whether a patie
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/patient-readmission-prediction.git
+   git clone https://github.com/ankheat/Healthcare-Predictive-modelling.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd patient-readmission-prediction
+   cd Healthcare-Predictive-modelling
    ```
 3. Install dependencies:
    ```bash
